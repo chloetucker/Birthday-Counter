@@ -14,8 +14,6 @@ def get_user_birthday():
     day = int(input("Day: [DD]: "))
 
     birthday = datetime.date(year, month, day)
-    birthday = datetime.
-    print (birthday)
     return birthday
 
 def days_between_dates(birthday_date, todays_date):
