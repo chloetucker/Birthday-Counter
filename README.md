@@ -1,7 +1,6 @@
 # Birthday Counter App
 ## Summary
 > This application asks for the user's birthday and calculates the days since.
-### Outcome
 
 ## Concepts Used
 - functions
