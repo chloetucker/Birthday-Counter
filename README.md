@@ -2,9 +2,8 @@
 ## Summary
 > This application asks for the user's birthday and calculates the days since.
 
-## Concepts Used
-- functions
-- datetime module
+## Reflection
+- During this project, I considered how this type of logic may be used in complex applications
 
 ## Resources
 This game was based on a Birthday app listed as App 3 in the following course: <a href="https://github.com/mikeckennedy/python-jumpstart-course-demos" target="_blank">**Talk Python to Me - Building 10 Apps Course**</a>
